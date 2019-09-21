@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569102380178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4500BBD4",
+    "lastKnownWriteTime" : 1569102533,
+    "last_content_update" : 1569102533430,
+    "path" : "~/Course4Project/plot2.R",
+    "project_path" : "plot2.R",
+    "properties" : {
+        "cursorPosition" : "12,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
